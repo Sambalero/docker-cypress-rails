@@ -11,11 +11,12 @@ This repository is intended to be the simplest possible Rails 6 + docker-compose
 
 It builds and runs a simple "hello" page locally.
 
-Rails, Database and Webpacker are the 3 mandatory services to get things works."
+Rails, Database and Webpacker are the 3 mandatory services to get things works.
+# "
 
 Cypress starts and runs tests headlessly, but 
 
-* on my machine:
+on my machine:
 * cypress tries
 * rails server starts
 * cypress succeeds
