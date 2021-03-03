@@ -27,7 +27,7 @@ on my machine:
 * google https://google.com works
 * localhost http://localhost:3000/hello/say_hello ECONNREFUSED 127.0.0.1:3000
 
-* and I don't see the rails welcome on a browser
+* but I can see the rails welcome on a browser at localhost:3000
 
 ## "Steps to reproduce
 
